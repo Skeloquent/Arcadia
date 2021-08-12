@@ -1,0 +1,22 @@
+{
+  "valid_games": ["fate","fatejp", "arknights","sinoalice","granblue", "epicseven","azurlane","7deadlysins","honkaiimpact","dragalialost","priconne","girlsfrontline","dokkanbattle","bangdream","genshin impact","fireemblem","custom"],
+  "valid_games_help_format": ["Fate Grand Order [ FGO  ]", "Fate Grand Order JP [ FGOJP ]","Arknights [ AK ]", "SINoALICE [ SIN ]", "Granblue Fantasy [ GBF ]","Epic Seven [ E7 ]","Azur Lane [ AL ]","7 Deadly Sins- Grand Cross [ 7DS ]","Honkai Impact [ HI ]","Dragalia Lost [ DL ]","Princess Connect! Re:Dive [ PRI ]","Girls' Frontline [ GFL ]","Dokkan Battle [ DOK ]","BanG Dream [ BD ]","Genshin Impact [GI]","Fire Emblem Heroes [ FEH ]","Custom"],
+  "valid_games_LC": ["fgo","fgojp","ak","sin", "gbf","e7","al","7ds","hi","dl","pri","gfl","dok","bd","gi","feh","custom"],
+  "fgo": "Master (NA)",
+  "fgojp": "Master (JP)",
+  "ak": "Doctor",
+  "sin": "Author",
+  "gbf": "Danchou",
+  "e7": "Heir",
+  "al": "Shikikan",
+  "7ds": "Whale-sin of Gacha",
+  "hi": "Captain",
+  "dl": "Prince",
+  "pri": "Lord",
+  "gfl": "Commander (GFL)",
+  "dok": "Whale Kai",
+  "bd": "Staff Member-kun (BanG Dream)",
+  "gi": "Traveler",
+  "feh": "Summoner",
+  "custom": "Player"
+}
