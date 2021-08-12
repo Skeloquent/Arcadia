@@ -1,0 +1,23 @@
+{
+  "name": "arcadia",
+  "version": "1.0.0",
+  "description": "Arcadia Bot",
+  "main": "index.js",
+  "engines": {
+    "node": "14.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "date-and-time": "^0.14.2",
+    "discord.js": "^12.5.1",
+    "snekfetch": "^3.2.9"
+  },
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "",
+  "license": "ISC"
+}
